@@ -13,6 +13,6 @@ export default StyleSheet.create({
     },
 
     SlideScroll: {
-        
+        paddingTop: 5,
     }
 });

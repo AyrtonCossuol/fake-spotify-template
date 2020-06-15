@@ -7,7 +7,7 @@ import Card from '../Card';
 
 const SlideCard = ({ slide }) => {
     return (
-       <View style={styles.Container}>
+       <View style={[ styles.Container, {paddingTop: 5 }]}>
            <Text style={styles.Title}>{slide.title}</Text>
 
             <ScrollView 

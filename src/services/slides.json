@@ -2,22 +2,70 @@
     {
         "title": "Seus podcats mais escutados",
         "items": [{
-            "photo": "https://defatoonline.com.br/wp-content/uploads/2020/03/saiba-como-comprar-online-em-supermercado-em-itabira-barao-e-outras-cidades-1-780x520.jpg",
+            "photo": "https://i.scdn.co/image/0a72e877b3fc7619fdf85438c20c9fba95afdbc6",
             "subtitle": {
                 "title": "Startup Catalyst",
-                "description": "Episodio de podcats escolhido por voce"
+                "description": "Podcast"
             }
         },{
-            "photo": "https://midias.agazeta.com.br/2020/03/17/pandemia-de-coronavirus-supermercados-amanhecem-lotados-em-vitoria-209185.jpeg",
+            "photo": "https://i.scdn.co/image/d65a17f28cc452cd4db675e817537b2e4f8a3831",
             "subtitle": {
                 "title": "Talking feds",
                 "description": "Episodio de podcats escolhido por voce"
             }
         },{
-            "photo": "https://defatoonline.com.br/wp-content/uploads/2020/03/saiba-como-comprar-online-em-supermercado-em-itabira-barao-e-outras-cidades-1-780x520.jpg",
+            "photo": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/4163723/4163723-1589063488822-063e20b967b05.jpg",
             "subtitle": {
-                "title": "Startup Catalyst",
-                "description": "Episodio de podcats escolhido por voce"
+                "title": "This is Brazil",
+                "description": "Nícolas Queiros e Pedro Duarte"
+            }
+        }]
+    }, {
+        "title": "Top mais tocadas Brasil",
+        "items": [{
+            "photo": "https://img.vixdata.io/pd/jpg-large/pt/sites/default/files/r/retrospectiva-spotify-11-19-1400-1400.jpg",
+            "subtitle": {
+                "title": "As mais tocadas no seu 2019",
+                "description": "As mais tocadas"
+            }
+        }, {
+            "photo": "https://www.emaisgoias.com.br/wp-content/uploads/2020/02/jorge-mateus-audiomix-marcos-araujo-processo-31-milhoes-1200x1200.jpg",
+            "subtitle": {
+                "title": "Jorge e Mateus",
+                "description": "Melhor musicas do ano."
+            }
+        }, {
+            "photo": "https://hitsebeats.eu/wp-content/uploads/2018/09/Funkdd-Hits.png",
+            "subtitle": {
+                "title": "Funk Hits",
+                "description": "Melhor musicas do ano."
+            }
+        }]
+    }, {
+        "title": "Escute denovo",
+        "items": [{
+            "photo": "https://images.suamusica.com.br/fmuhJPtuBXIZ5iFG5kSR2OBW160=/300x300/27651379/2434157/cd_cover.jpg?1",
+            "subtitle": {
+                "title": "Lambasaia",
+                "description": "Melhor musicas do ano."
+            }
+        }, {
+            "photo": "https://www.emaisgoias.com.br/wp-content/uploads/2020/02/jorge-mateus-audiomix-marcos-araujo-processo-31-milhoes-1200x1200.jpg",
+            "subtitle": {
+                "title": "Jorge e Mateus",
+                "description": "Melhor musicas do ano."
+            }
+        }, {
+            "photo": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/4163723/4163723-1589063488822-063e20b967b05.jpg",
+            "subtitle": {
+                "title": "This is Brazil",
+                "description": "Nícolas Queiros e Pedro Duarte"
+            }
+        }, {
+            "photo": "https://hitsebeats.eu/wp-content/uploads/2018/09/Funkdd-Hits.png",
+            "subtitle": {
+                "title": "Funk Hits",
+                "description": "Melhor musicas do ano."
             }
         }]
     }
