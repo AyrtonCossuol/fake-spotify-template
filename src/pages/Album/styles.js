@@ -49,7 +49,7 @@ export default StyleSheet.create({
     },
 
     BandName: {
-        fontSize: 56,
+        fontSize: 40,
         color: '#fff',
         fontWeight: 'bold',
         padding: 15,

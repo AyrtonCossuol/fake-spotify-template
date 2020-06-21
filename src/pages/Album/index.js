@@ -18,7 +18,7 @@ const Album = () => {
                 style={styles.ContainerHeader} 
                 colors={['#111', 'transparent', 'transparent', '#111']}
             >
-                <Image style={styles.Photo} source={{ uri:'https://i2.wp.com/www.wikimetal.com.br/wp-content/uploads/2019/09/Nickelback-pesadas.jpg?resize=1170%2C530' }} />
+                <Image style={styles.Photo} source={{ uri:"https://www.emaisgoias.com.br/wp-content/uploads/2020/02/jorge-mateus-audiomix-marcos-araujo-processo-31-milhoes-1200x1200.jpg" }} />
                 <View style={styles.ContainerNavBar}>
                     <Icon name="arrow-left" {...iconConfigure} />
                     <View style={styles.GroupItemNavBar}>
@@ -28,7 +28,7 @@ const Album = () => {
                 </View>
 
                 <View style={styles.ContainerInfoBand}>
-                    <Text style={styles.BandName}>Nickelback</Text>
+                    <Text style={styles.BandName}>Jorge e Mateus</Text>
                     <Text style={styles.BandFooter}>8.500.752 ouvintes mensais</Text>
                 </View>
             </LinearGradient>
